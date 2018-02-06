@@ -1,0 +1,23 @@
+{
+  "name": "navy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrinJessie/navypsql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrinJessie/navypsql/issues"
+  },
+  "homepage": "https://github.com/GrinJessie/navypsql#readme",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
